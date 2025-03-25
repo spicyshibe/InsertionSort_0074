@@ -57,4 +57,7 @@ void display()
     cout << endl;
     cout << "===========================" << endl;
     cout << "total pass = " << n - 1 << endl;
+    cout << "===========================" << endl;
+    cout << "elemen array yang telah tersusun" << endl;
+    cout << "===========================" << endl;
 }
